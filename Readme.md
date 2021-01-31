@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Андрей Касаткин](https://up.htmlacademy.ru/javascript/22/user/1281279).
-* Наставник: [Никита Пиковец](https://htmlacademy.ru/profile/id503133).
+* Наставник: [Евгений Фаллер](https://htmlacademy.ru/profile/id505933).
 
 ---
 
